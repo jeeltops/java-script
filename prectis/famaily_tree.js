@@ -66,3 +66,4 @@ let familyTree = {
     },
    ],
  };
+ console.log(id)
